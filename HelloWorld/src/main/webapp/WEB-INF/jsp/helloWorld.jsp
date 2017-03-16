@@ -13,6 +13,7 @@
 	</center>
 	
 	<center>수정했다!</center>
-
+	
+	server file is changed
 </body>
 </html>
