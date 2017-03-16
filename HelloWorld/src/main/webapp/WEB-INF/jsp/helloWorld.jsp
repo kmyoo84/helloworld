@@ -12,7 +12,10 @@
 	${message } ${name }
 	</center>
 	
+<<<<<<< HEAD
 	<center>수정했다!</center>
+=======
+>>>>>>> branch 'master' of https://github.com/kmyoo84/helloworld.git
 	server file is changed
 </body>
 </html>
