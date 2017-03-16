@@ -10,6 +10,7 @@
 
 	<center>
 	${message } ${name }
+	
 	</center>
 	
 	<center>수정했다!</center>
